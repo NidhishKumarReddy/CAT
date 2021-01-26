@@ -86,3 +86,31 @@
 **Agonize** - *To spend a long time thinking and worrying about a diificult situation or problem*
                   *Veedanapadu*
                   *Ex - 1. I spent days agonizing over whether to take job or not.*
+
+**Bludgeon** - *To hit somebody several times with a heavy object*
+                  *Ex - 1. She had been bludgeoned to death*
+
+**Trident** - *A weapon used in the past that looks like a long fork with three points*
+
+**Dawn** - *The begining or first signs of something or to begin*
+               *Telavaru samayam, Telaru*
+
+**Barge** - *To move in a awkward way, pushing people out of the way or crashing into them*
+                 *chochukuni povu, athikraminchu*
+                 *Ex - 1. He barged the other player off the ball.*
+
+**Crotch** - *The part of the body where the legs join at the top, including the area around the genitals.*
+
+**Signify** - *To be important; to matter;*
+              *To do something to make your feelings*
+                  *Ex - 1. His presence no longer signified*
+
+**Plummeted** - *Synonym - Plunge*
+                *To fall suddenly and quickly from a high level or position*
+                   *Ex - 1. Share prices plummeted to an all-time low.*
+
+**Eavesdrop** - *To listen secretly to what other people are saying*
+                   *Ex - 1. We caught him eavesdropping outside the window*
+
+**Stealthy** - *Doing things quietly and secretly*
+                  *Ex - 1. A stealthy movement*
