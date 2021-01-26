@@ -6,6 +6,7 @@
                      *2. She's an eternal optimist*
 
 **Optimist** - *A person who always expects good things to happen; things to be successful*
+                 *Synonym - Sanguine*
                  *Aasawadhi*
 
 **Pessimist** - *A person who always expects bad things to happen*
@@ -114,3 +115,47 @@
 
 **Stealthy** - *Doing things quietly and secretly*
                   *Ex - 1. A stealthy movement*
+
+**Mediocre** - *Not very good; of only average standard*
+                  *Ex 1. A mediocre bastman.*
+
+**Contempt** - *The feeling that somebody/something is without value deserves no respect at all.*
+                  *Ex 1. Politicians are generally held in contempt by ordinary people.*
+                  *idiom - Familiarity breeds contempt.*
+
+**Banter** - *Friendly remarks and jokes*
+               *Synonym - Persiflage*
+               *Ex 1. TimPaine enjoyed exchanging banter with Rishab Pant.*
+
+**Dulcet** - *Sounding sweet and pleasant*
+               *Synonym - Harmonious, Mellifluous*
+               *Antonym - Discordant, Discord*
+               *Ex 1. Yashaswi voice got dulcet tones*
+
+**Cadence** - *The rise and fall of the voice in speaking*
+                *Ex 1. He delivered his speach slow, measured cadences.*
+
+**Pertinent** - *Appropriate to a particular situation*
+                  *Ex 1. A pertinent question/fact.*
+                     *2. Please keep your comments pertinent to the topic under discussion*
+
+**Abundant** - *more than enough; existing in large numbers.*
+                  *Synonym - copious*
+                  *Ex 1. Fish are abundant/copious in the lake.*
+                      *2. We have abundant/copious evidence to prove his guilty.*
+
+**Provocative** - *Intended to make people angry or upset or argue about something.*
+                     *Ex 1. He doesn't really mean that - he's just deliberatly being provocative*
+
+**Chronicle** - *To record events in order in which they occured.*
+
+**Anarchy** - *A situation in a county or organization etc. in which there is no government, order or control.*
+                  *Ex 1. When jagan become cheif minister of ap, the state became anarchy.*
+
+**Anachronism** - *A person, a custom or an idea that seems old fashioned and does not belong to that present.*
+                  *Synonym - Cliche*
+                  *Ex 1. He said nuclear weapons were an anachronism in the post of cold war era.*
+
+**Sanguine** - *Blood red; Optimist*
+
+**Antlophobia** - *Fear of Floods*
