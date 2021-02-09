@@ -84,7 +84,7 @@
                *A number of things happening, in which one leads to another*
                   *Ex - 1. The protien can trigger a cascade of events that leads to heart failure.*
 
-**Agonize** - *To spend a long time thinking and worrying about a diificult situation or problem*
+**Agonize** - *To spend a long time thinking and worrying about a dificult situation or problem*
                   *Veedanapadu*
                   *Ex - 1. I spent days agonizing over whether to take job or not.*
 
@@ -136,6 +136,7 @@
                 *Ex 1. He delivered his speach slow, measured cadences.*
 
 **Pertinent** - *Appropriate to a particular situation*
+                  *Synonym - Relevant*
                   *Ex 1. A pertinent question/fact.*
                      *2. Please keep your comments pertinent to the topic under discussion*
 
@@ -159,3 +160,30 @@
 **Sanguine** - *Blood red; Optimist*
 
 **Antlophobia** - *Fear of Floods*
+
+**Choler** - *Anger*
+               *Synonym - Bile*
+
+**Ipso Facto** - *By the fact itself*
+
+**Thaw** - *Become friendly*
+
+**Impute** - *To say, often unfairly, that somebody is responsible for something*
+               *Synonym - Attribute*
+               *Ex - 1. I denied the motives that my employer was imputing to me.*
+
+**ossified** - *To become or make something hard like bone; Rigid; Unable to change*
+                  *Ex - 1. Ossified Cartillage.*
+                       *2. Ossified Political System.*
+
+**Exacerbate** - *To make something worse, especially a disease or problem*
+                     *Synonym - Aggravate*
+                     *Ex - 1. The symptoms may be exacerbated by using drugs.*
+
+**Assorted** - *Of various different sorts*
+                  *Ex 1. Assorted vegetable soup.*
+
+**Digress** - *To start to talk about something that is not connected with tha main point of what you are saying.*
+                  *Ex 1. My friend ravi always start to digress in a debate*
+
+
